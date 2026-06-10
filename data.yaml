@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Stairs', 'faded_crosswalk', 'intact_crosswalk']
+
+roboflow:
+  workspace: isaac-penaranda
+  project: mobility-assist2
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/isaac-penaranda/mobility-assist2/dataset/dataset

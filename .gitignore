@@ -1,0 +1,5 @@
+assist_env/
+yolov8_env/
+__pycache__/
+runs/
+*.pt
