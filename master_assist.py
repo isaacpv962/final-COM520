@@ -14,7 +14,7 @@ from picamera2 import Picamera2
 # ==========================================
 
 # IMPORTANTE: Reemplaza esto por tu clave real
-GMAPS_API_KEY = "AIzaSyDQHsZWaJ2F77EidyYMNwShGtcwgapLR0Y"
+GMAPS_API_KEY = ""
 
 # VARIABLES DE COMPORTAMIENTO
 USE_MICROPHONE = False         # Cambia a True cuando conectes un micrófono USB
