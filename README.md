@@ -54,7 +54,7 @@ python train.py
 Los pesos resultantes se guardarán automáticamente en la ruta:
 `runs/detect/train/weights/best.pt`
 
-> 💡 **Nota:** Al finalizar el entrenamiento, exporte el modelo a formato **NCNN** siguiendo las instrucciones en consola para poder migrarlo a la Raspberry Pi.
+> 💡 **Nota:** Al finalizar el entrenamiento, el modelo se exportará a formato **NCNN** a la ruta indicada en consola para poder migrarlo a la Raspberry Pi.
 
 ---
 
